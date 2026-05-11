@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Jorge Vera
 
-[cite_start]Estudiante de último nivel de **Ingeniería de Sistemas** apasionado por el desarrollo Backend y la construcción de soluciones escalables[cite: 84, 85].
+Estudiante de último nivel de **Ingeniería de Sistemas** apasionado por el desarrollo Backend y la construcción de soluciones escalables[cite: 84, 85].
 
 ### 🔭 I’m currently working on ...
 * [cite_start]Perfeccionando proyectos con el ecosistema **Java y Spring Boot**[cite: 89, 90].
@@ -22,7 +22,7 @@
 
 ### 📫 How to reach me:
 * [cite_start]**Email:** jorgeorlandovmur@gmail.com [cite: 57]
-* **LinkedIn:** [Añade aquí el link de tu perfil de LinkedIn]
+* **LinkedIn:** https://www.linkedin.com/in/jorge-orlando-vera-muriel
 
 ---
 [cite_start]*"Comprometido con la optimización de entornos digitales y el aprendizaje continuo"*[cite: 86, 87].
